@@ -48,6 +48,7 @@ This is the first of a series of 'vlog' entries for 'Lerntechnologien'.
 ### Distraction
 
 - Helicopter
+- Home office setup
 - Mundane tasks (grunt work)
 - Coffee addiction :)
 
